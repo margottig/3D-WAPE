@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache
+\outputs
+\copy_Subs
+\copy_FullSystem
+\Omni_pointSource
+*.csv
+*.png
+\spl_data
+polarplots.py
