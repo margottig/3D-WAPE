@@ -53,3 +53,7 @@ pytest
 pip install papermill pandas nbformat
 python run_batch.py
 ```
+
+Part of this code implements algorithms that have already been published: 
+
+Bill Kayser. “Open Access of a Wide-Angle Parabolic Equation Model for Sound Propagation in a Moving Atmosphere Above an Absorbing and Rough Ground”. In: 10th EAA Convention. Turin, Italy, 2023.
